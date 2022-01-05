@@ -7,6 +7,8 @@ And mainly, the lack of time/motivation to continue on it ~~(and stress from eve
 
 Please abstain from contacting me for RL related stuff, thanks.
 
+https://rapidleech.com/forum/viewtopic.php?f=10&t=1721
+
 # Rapidleech
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Th3-822/rapidleech?label=last%20update)](https://github.com/Th3-822/rapidleech/commits/master)
